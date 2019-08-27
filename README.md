@@ -1,6 +1,6 @@
 # Remote Layar Android Via USB
 
-# Tested : Windows Seven & Android
+# Tested : Windows Seven 32/64 & Android Working
 
 # Author Boychongzen aka Xroot
 
