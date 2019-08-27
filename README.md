@@ -6,7 +6,6 @@
 
 # Tampilan Remote Layar Android Via USB
 ![be](https://raw.githubusercontent.com/boychongzen18/Remote-Android-Via-USB/master/android.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/Remote-Android-Via-USB/master/file.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Remote-Android-Via-USB/master/laptop.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Remote-Android-Via-USB/master/laptop1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Remote-Android-Via-USB/master/laptop2.jpg)
